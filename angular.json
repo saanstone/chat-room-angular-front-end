@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chat-application-front-end"
+    }
+  },
+  "defaultProject": "chat-application-front-end",
+  "cli": {
+    "analytics": false
+  }
 }
